@@ -20,7 +20,12 @@ Kaggle TB Chest Radiography Database (Tawsifur Rahman)
 - CVAT (app.cvat.ai)
 - Format: COCO 1.0
 - Method: Manual polygon annotation
-
+progress batch 1:20 images
+batch 2 : 20 images
+batch 3: 20 images
+batch 4 : 20 images
+batch 5 : 20 images 
+ **total : 100/100 complete 
 
 ## Differentiator
 Annotations informed by 8 years of clinical radiological experience — not just boxes, but radiological reasoning
